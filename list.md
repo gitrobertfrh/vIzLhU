@@ -163,3 +163,4 @@
 - [Fork PR无法访问Secret密钥，自动化测试受限](https://github.com/gitrobertfrh/vIzLhU/commit/d12bde55c6e61f49e5ef042a5416483aad54f17a)
 - [基层三保压力持续加大地方财政如何平衡发展与民生支出](https://github.com/gitrobertfrh/vIzLhU/commit/85028236f57416c0e7e4e7c3178f5d5a8c13aa91)
 - [AI原生权限体系，人‑Agent‑工具三级权限](https://github.com/gitrobertfrh/vIzLhU/commit/a4a70d55cd3e82a28b85d3e124960b3321c7dda7)
+- [断舍离过度化引发的消费争议](https://github.com/gitrobertfrh/vIzLhU/commit/e96bb34e057efb5705d14ce44342909ba748d7ee)
