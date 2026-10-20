@@ -40,3 +40,4 @@
 - [粮价表面风平浪静，暗藏连锁传导潜在危机](https://github.com/gitrobertfrh/vIzLhU/commit/ee7e84c2c7bca4704a4b333191adc1f18e4d9217)
 - [牛市呼声越来越高，散户账户却纹丝不动](https://github.com/gitrobertfrh/vIzLhU/commit/b367dd05bf86c9b08c2d161df371d9a3cd52e4a8)
 - [Roadmap照搬Issue列表，没有优先级与时间规划](https://github.com/gitrobertfrh/vIzLhU/commit/a8fc1c428c96e92f47402fecf8d18199a158d267)
+- [AI‑Native开发范式对传统研发流程的颠覆与落地痛点](https://github.com/gitrobertfrh/vIzLhU/commit/1dd5e519004ed3ce7592a0937602f5f938fa7a92)
