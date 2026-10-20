@@ -11,3 +11,4 @@
 - [具身智能机器人进入家庭，家务陪护现实瓶颈](https://github.com/gitrobertfrh/vIzLhU/commit/becb3522914ef3dfdf06e686c01ea5a1d40faceb)
 - [数据库批量更新 Demo 完整源码大批量数据批量更新逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/f8889f365933811a7a9c508bd7eb8d342ccd6520)
 - [副业广告铺天盖地，真正赚到钱的寥寥无几](https://github.com/gitrobertfrh/vIzLhU/commit/2097ac76cc84455a1feb7d3e65774db80ca4aa7e)
+- [电动车上牌规定电动自行车摩托车上牌要求](https://github.com/gitrobertfrh/vIzLhU/commit/565c70fa2393ef26ef87bfe581b5ebbd91d80310)
