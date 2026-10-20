@@ -12,3 +12,4 @@
 - [数据库批量更新 Demo 完整源码大批量数据批量更新逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/f8889f365933811a7a9c508bd7eb8d342ccd6520)
 - [副业广告铺天盖地，真正赚到钱的寥寥无几](https://github.com/gitrobertfrh/vIzLhU/commit/2097ac76cc84455a1feb7d3e65774db80ca4aa7e)
 - [电动车上牌规定电动自行车摩托车上牌要求](https://github.com/gitrobertfrh/vIzLhU/commit/565c70fa2393ef26ef87bfe581b5ebbd91d80310)
+- [城市慢行系统升级骑行步行友好城市建设](https://github.com/gitrobertfrh/vIzLhU/commit/bc2a5fb28829c374999251c4686837d8db324d12)
