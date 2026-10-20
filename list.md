@@ -7,3 +7,4 @@
 - [中医药适宜技术普及基层人才缺口](https://github.com/gitrobertfrh/vIzLhU/commit/3d3b4c2f0a3ff7c64eae7c15d1a44312613c58b5)
 - [券商投行业务竞争加剧注册制之下投行定价能力迎来大考](https://github.com/gitrobertfrh/vIzLhU/commit/afaabdc6a2b84e60316ad79e71905eb48e4ec7fe)
 - [存款越来越少，钱到底流向了哪里](https://github.com/gitrobertfrh/vIzLhU/commit/deafbbbe0efe2e8be00d64134fabbe267dc691c8)
+- [多语言i18n文本提取工具，代码提取文本生成多语言翻译文件](https://github.com/gitrobertfrh/vIzLhU/commit/438b619483866ffcf6f58e00ca30142936ba7106)
