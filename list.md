@@ -72,3 +72,4 @@
 - [开源软件线上故障，法律上维护者不承担责任](https://github.com/gitrobertfrh/vIzLhU/commit/e657ffccdc9da3502c347529d39e5a38112104d1)
 - [海洋大模型，海洋环境感知预测算力消耗](https://github.com/gitrobertfrh/vIzLhU/commit/ba7ff50b0852d13d2bcb331d4cda2af02a39241c)
 - [文旅数据爆表，普通人并没有赚到钱](https://github.com/gitrobertfrh/vIzLhU/commit/d990ca1b9972da8aa4f6eae30ae2ce9662ce924f)
+- [稳岗返还政策延续，企业和打工人能拿到什么](https://github.com/gitrobertfrh/vIzLhU/commit/8331d244c25429725955bf30d17e7a894ffc3c23)
