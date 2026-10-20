@@ -21,3 +21,4 @@
 - [图片画质增强放大脚本，本地模型超分辨率修复模糊图片](https://github.com/gitrobertfrh/vIzLhU/commit/3ed68fa688c0ce16a3b5b7ef9f68064e6645838a)
 - [全栈小示例开源仓库 开放源码集成调试排错与性能调优参考](https://github.com/gitrobertfrh/vIzLhU/commit/37ef52a4132034482921da33074c1d46aa264607)
 - [GitHub 开源文档页面 title 不要全部相同](https://github.com/gitrobertfrh/vIzLhU/commit/91ca8af7e34f6eb345e40461df5e44edea47d37c)
+- [返乡创业热潮，乡村创业担保贷款申请难点](https://github.com/gitrobertfrh/vIzLhU/commit/d4dc074546e28515fa381b2bac841fad3ef35e63)
