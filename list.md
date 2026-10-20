@@ -142,3 +142,4 @@
 - [养老储蓄产品上市低利率环境养老储蓄值不值得买](https://github.com/gitrobertfrh/vIzLhU/commit/9a4497500d4c47974c28b587f113ebec820436cb)
 - [海外高薪务工骗局识别实用技巧](https://github.com/gitrobertfrh/vIzLhU/commit/c0200bc24ed91870617912ec05c53c484a9e83cd)
 - [线程安全计数器工程 完整源码多线程安全计数统计](https://github.com/gitrobertfrh/vIzLhU/commit/cad176eba155e58a4f5a6018d098d8d77694ccf5)
+- [制造业PMI月度数据深度解读，实体经济景气度变化引关注](https://github.com/gitrobertfrh/vIzLhU/commit/6058e477db59d8abc8a827df076272a37b12d860)
