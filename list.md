@@ -182,3 +182,4 @@
 - [数据最终一致性开源源码 完整源码模拟最终一致性方案](https://github.com/gitrobertfrh/vIzLhU/commit/7c54b8fc11b80ab761e897b159e43f3d78eee1e9)
 - [Kubernetes开源项目yaml模板泛滥，配置漂移](https://github.com/gitrobertfrh/vIzLhU/commit/284063e14557309e36496858361f4e4019e6a8b2)
 - [iptables配置导出还原工具，导出防火墙规则可一键恢复](https://github.com/gitrobertfrh/vIzLhU/commit/acaaf8ae3662c418bd3416be928bff9119cf2e31)
+- [制造业企业的研发投入，如何平衡短期成本与长期收益](https://github.com/gitrobertfrh/vIzLhU/commit/913f5b8bb513757fcc0ef739a91c5ef21771e1fd)
