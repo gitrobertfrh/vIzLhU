@@ -33,3 +33,4 @@
 - [AI项目试点到规模化推广，组织能力短板剖析](https://github.com/gitrobertfrh/vIzLhU/commit/297f29382898068b549a078220bb412136743c6c)
 - [ThreadLocal 使用与泄漏源码 完整源码演示线程局部变量内存泄漏](https://github.com/gitrobertfrh/vIzLhU/commit/bc182bb600ca79f8d92d9d1eed87b77bf0cac9a5)
 - [优雅停机示例 Demo 完整源码捕获信号完成资源释放关闭](https://github.com/gitrobertfrh/vIzLhU/commit/1aab4129553dcd50e50c964e04797a5b4f6d18bd)
+- [无人机黑飞扰民该如何治理](https://github.com/gitrobertfrh/vIzLhU/commit/56b6910a4cc48686590b456bd964bd4a4566e020)
