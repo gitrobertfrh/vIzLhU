@@ -90,3 +90,4 @@
 - [字符串模板渲染源码 完整源码变量替换文本模板](https://github.com/gitrobertfrh/vIzLhU/commit/534c703ba639a65b39467b8dee4a21365f8ce7ea)
 - [都市圈跨城通勤常态化城际配套短板](https://github.com/gitrobertfrh/vIzLhU/commit/59151199b1271e3b7bde5c0dc07cc28b7939657b)
 - [脚本模块化开源实现项目 快速上手配置与模拟数据样例](https://github.com/gitrobertfrh/vIzLhU/commit/fe7c30276abfba567591d75e8f8594da2a54396b)
+- [数据库运维辅助开源工具 源码适配数据库快速接入调试](https://github.com/gitrobertfrh/vIzLhU/commit/83718a91867575474db064d1add8e53efca7a113)
