@@ -79,3 +79,4 @@
 - [简单哈希表实现开源工程 完整源码手写简易哈希存储逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/58132a5aafdf18077768b941890f84b8a3d9a9ed)
 - [git仓库信息导出脚本，导出贡献者标签分支统计信息](https://github.com/gitrobertfrh/vIzLhU/commit/b587085f73ff05599530d9d643d1d16e05b7d02f)
 - [短剧行业监管细则落地AI短剧野蛮生长时代宣告结束](https://github.com/gitrobertfrh/vIzLhU/commit/9c58bbe476db530c56909248eac38e38e4d2102f)
+- [个体工商户经营所得报税小商户报税常见误区](https://github.com/gitrobertfrh/vIzLhU/commit/0283f079a01a8905e4431a65c6657bce25cc0d0d)
