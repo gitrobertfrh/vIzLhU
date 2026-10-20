@@ -24,3 +24,4 @@
 - [返乡创业热潮，乡村创业担保贷款申请难点](https://github.com/gitrobertfrh/vIzLhU/commit/d4dc074546e28515fa381b2bac841fad3ef35e63)
 - [镜像站点百度索引更新慢的多维度优化手段](https://github.com/gitrobertfrh/vIzLhU/commit/26ddfdedf5ff5e97d8fe8661af2ed6a82d764ae1)
 - [git重写提交邮箱用户名，批量修改git历史提交者信息](https://github.com/gitrobertfrh/vIzLhU/commit/23b86728eafbda848255a7584f0511d30a613b50)
+- [CI流水线输出日志过大，日志被截断关键信息丢失](https://github.com/gitrobertfrh/vIzLhU/commit/07c8378dfde754dd92235d2dac6a39ed75754efc)
