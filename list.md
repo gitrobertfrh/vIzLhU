@@ -177,3 +177,4 @@
 - [保障性租赁住房大规模供给，新市民安居选择](https://github.com/gitrobertfrh/vIzLhU/commit/81756f532818b95b9d419564a7d35daa9cdd7f87)
 - [科创企业轻资产属性，银行信贷融资存在天然短板](https://github.com/gitrobertfrh/vIzLhU/commit/7736545e72a4860750fed0b446c129d9cff65650)
 - [个体工商户扶持政策落地亿万个体户经营迎来政策红利](https://github.com/gitrobertfrh/vIzLhU/commit/8a526b48407225190e8ea2b3b50b92573a0d6c9a)
+- [解决百度收录 GitHub 镜像站只收录部分页面](https://github.com/gitrobertfrh/vIzLhU/commit/4de1b9c561a4608b28302187639114041c65ece0)
