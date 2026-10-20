@@ -175,3 +175,4 @@
 - [RAG时间感知检索，优先调取最新业务文档](https://github.com/gitrobertfrh/vIzLhU/commit/463987c426c3df6f159b83bcf177ac5034ea9594)
 - [房产中介虚假房源整治实际效果](https://github.com/gitrobertfrh/vIzLhU/commit/74d999f91f3c6e9ffff1517404931257f39ac8c8)
 - [保障性租赁住房大规模供给，新市民安居选择](https://github.com/gitrobertfrh/vIzLhU/commit/81756f532818b95b9d419564a7d35daa9cdd7f87)
+- [科创企业轻资产属性，银行信贷融资存在天然短板](https://github.com/gitrobertfrh/vIzLhU/commit/7736545e72a4860750fed0b446c129d9cff65650)
