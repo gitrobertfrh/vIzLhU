@@ -172,3 +172,4 @@
 - [就业市场的变化，是观察经济冷暖最直观的窗口](https://github.com/gitrobertfrh/vIzLhU/commit/00a4b17b48fe863dcbfae7edb44ea7093678545c)
 - [外贸企业开拓新兴市场，面临当地市场规则的挑战](https://github.com/gitrobertfrh/vIzLhU/commit/04b99451aa6cef50c55e10fb78b93058a701ba64)
 - [文件 mime 类型检测开源工程 完整源码获取文件 mime 类型](https://github.com/gitrobertfrh/vIzLhU/commit/868b850453b8673c78c2397a83e4780ce65310a0)
+- [RAG时间感知检索，优先调取最新业务文档](https://github.com/gitrobertfrh/vIzLhU/commit/463987c426c3df6f159b83bcf177ac5034ea9594)
