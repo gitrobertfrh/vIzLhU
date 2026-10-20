@@ -186,3 +186,4 @@
 - [Passkey大规模推广，账号体系平滑迁移方案](https://github.com/gitrobertfrh/vIzLhU/commit/06cac45c4338152004d8545ad6f74ffac4f3f878)
 - [仓库被恶意举报封禁，开源项目误封申诉艰难](https://github.com/gitrobertfrh/vIzLhU/commit/713ac7cbe7ed6b75355fc83dd8cb91c3d0ec91c9)
 - [北交所行情分化专精特新企业成长机会该如何挖掘](https://github.com/gitrobertfrh/vIzLhU/commit/842b453cc7eacf217281306fbcc07274dd8dbc40)
+- [sqlite数据库触发器导出，批量导出sqlite触发器定义](https://github.com/gitrobertfrh/vIzLhU/commit/887b8ae39875c63bbbfc7e4077a9992ade5448d4)
