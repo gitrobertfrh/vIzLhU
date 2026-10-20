@@ -103,3 +103,4 @@
 - [责任链模式开源工程 完整源码处理器链式处理逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/744c2d323c92da96a5072836492014848728c612)
 - [多模态输入预处理，图片压缩降噪避免诱导注入](https://github.com/gitrobertfrh/vIzLhU/commit/48f7e87427cbbf2288cd4d5645c438ddb4ef7b56)
 - [深远海海上风电启动技术迭代带来成本下降空间](https://github.com/gitrobertfrh/vIzLhU/commit/9d775dd6e5d03615119f27d6a5d6a01cb3551246)
+- [量化交易持续规范，散户赚钱难度并未降低](https://github.com/gitrobertfrh/vIzLhU/commit/b70ff0e6a979d56c8c2373a07049d6964f43f8c8)
