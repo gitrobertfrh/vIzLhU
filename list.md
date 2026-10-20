@@ -65,3 +65,4 @@
 - [文旅消费火热，但是多数中小文旅商户利润微薄](https://github.com/gitrobertfrh/vIzLhU/commit/67cb5caa61018fb2fc4b6b3a7c6b5ede47e9fef3)
 - [git远程标签拉取清理工具，同步清理本地无效远程标签](https://github.com/gitrobertfrh/vIzLhU/commit/ab0f50a41d1613c24dbf9912363d61c038da91c5)
 - [气候康养兴起，气候适配型养老旅居发展](https://github.com/gitrobertfrh/vIzLhU/commit/50d028164b182eb978d4ac0f30648a58d0989a59)
+- [开源工具配置教程 GitHub 发布 SEO 实操](https://github.com/gitrobertfrh/vIzLhU/commit/e4011f7b9b4c7fc3b3407dfd8521ba193a2241a4)
