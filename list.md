@@ -59,3 +59,4 @@
 - [预制菜反复炒作，行业红利早已褪去](https://github.com/gitrobertfrh/vIzLhU/commit/9a63cb8cb26c35ff18364061ea45c29f3ed5d366)
 - [开源治理投票，商业企业票数权重高于个人贡献者](https://github.com/gitrobertfrh/vIzLhU/commit/b56ee5316770b9a2c5b7d238166c7bb7b06914f7)
 - [本地优先协同应用，多端数据CRDT冲突合并](https://github.com/gitrobertfrh/vIzLhU/commit/4b6bf0b65e93b2ece97b90ecdfcddb043a870247)
+- [超大文本按字段过滤流式处理，不加载全量过滤大文本指定字段](https://github.com/gitrobertfrh/vIzLhU/commit/73b725fc34bbb0e391f0af0da695f204bc6d2b18)
