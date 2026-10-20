@@ -153,3 +153,4 @@
 - [刚需买房怎么判断时机普通购房者避坑实用指南](https://github.com/gitrobertfrh/vIzLhU/commit/bf58b1adcb870189439826c9562c4d49ad249adb)
 - [数据要素政策加码，赚钱依旧遥不可及](https://github.com/gitrobertfrh/vIzLhU/commit/90422f49467dfdec93af59c8d8474dd4a32b1922)
 - [Agent人机审批流程，高风险操作强制人工复核](https://github.com/gitrobertfrh/vIzLhU/commit/33add68a56ed6c6195898e06f0b2b1bfa909a490)
+- [直播电商退货率居高不下，抬升中小商家经营成本](https://github.com/gitrobertfrh/vIzLhU/commit/4eadd49c814e74eac41f5183678d2a475e6ecd95)
