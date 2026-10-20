@@ -165,3 +165,4 @@
 - [AI原生权限体系，人‑Agent‑工具三级权限](https://github.com/gitrobertfrh/vIzLhU/commit/a4a70d55cd3e82a28b85d3e124960b3321c7dda7)
 - [断舍离过度化引发的消费争议](https://github.com/gitrobertfrh/vIzLhU/commit/e96bb34e057efb5705d14ce44342909ba748d7ee)
 - [github仓库commit贡献热力图导出，解析提交时间生成热力数据](https://github.com/gitrobertfrh/vIzLhU/commit/0082333462b58caa331750f1276e3d9469a1c647)
+- [数据解析开源案例仓库 可复用源码与数据模块集成接入指南](https://github.com/gitrobertfrh/vIzLhU/commit/18e506be485cdad70a22a260189c669629f4a57d)
