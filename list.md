@@ -114,3 +114,4 @@
 - [职业技能培训数量庞大，培训内容和市场需求脱节](https://github.com/gitrobertfrh/vIzLhU/commit/50c8161ff697fcd3fc9aa8a52d07b837caead471)
 - [智慧电网AI调度，分布式新能源负荷预测难点](https://github.com/gitrobertfrh/vIzLhU/commit/2bc5a622929d28f7a6eb57ec7df8d1aad41e9701)
 - [云原生AI工作负载内存泄露，长驻推理服务排查](https://github.com/gitrobertfrh/vIzLhU/commit/16896622ed416f0f799e361540194f351db68f83)
+- [新能源综合能源站普及，加油站业态转型](https://github.com/gitrobertfrh/vIzLhU/commit/d606e3d9ac9bc5f17bb81c857a8bc4aac3c12d58)
