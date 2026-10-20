@@ -17,3 +17,4 @@
 - [文件数据库批量备份开源源码 完整源码实现自动化备份逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/dc244ba859f2c36d849a4e6840098851fe2b8298)
 - [Hash 分库分表工程 完整源码哈希分片存储实现](https://github.com/gitrobertfrh/vIzLhU/commit/c1882b93b1668732e9541ccd43d60a42be34794c)
 - [github repo归档状态检测批量，批量检测仓库是否已归档只读](https://github.com/gitrobertfrh/vIzLhU/commit/9e981cf4691cbee1d790a04bad2c26c6fa885492)
+- [简约通用前端开源组件库 源码搭配页面快速接入实操示例](https://github.com/gitrobertfrh/vIzLhU/commit/b2b2297fe0aa8b011555b8d5a76c36ab9c57ac42)
