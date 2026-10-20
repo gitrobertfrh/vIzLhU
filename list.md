@@ -54,3 +54,4 @@
 - [制造产线数字员工，人机协同作业安全边界](https://github.com/gitrobertfrh/vIzLhU/commit/c9a9f53448b2143a17126b0c5e4f5131f77b2bab)
 - [全网遍地投资机会，普通人赚钱依旧举步维艰](https://github.com/gitrobertfrh/vIzLhU/commit/35c11cfe5f795e3de0a14b25088d938448cddba9)
 - [险企参与港股IPO基石投资长线资金布局港股市场动向](https://github.com/gitrobertfrh/vIzLhU/commit/fdef5b126c76246d4ad539a6e2d00b1d708ad2f7)
+- [rtsp流音频转码录制工具，转码rtsp音频保存为mp3文件](https://github.com/gitrobertfrh/vIzLhU/commit/8a08b6519be354144df16a211b80b049c03684f6)
