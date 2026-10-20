@@ -117,3 +117,4 @@
 - [新能源综合能源站普及，加油站业态转型](https://github.com/gitrobertfrh/vIzLhU/commit/d606e3d9ac9bc5f17bb81c857a8bc4aac3c12d58)
 - [银行办理业务被拒，哪些情况银行有权拒绝开户](https://github.com/gitrobertfrh/vIzLhU/commit/4016373a928238838d1dafe4297962c68d93d086)
 - [慢病居家干预常态化，减少医院反复就诊压力](https://github.com/gitrobertfrh/vIzLhU/commit/23171145014a899cab23897e71b0cc90b26bf144)
+- [数据库批量删除开源工程 完整源码批量删除历史数据](https://github.com/gitrobertfrh/vIzLhU/commit/1b1befd88c774b14f466538492f7a1564291b3ff)
