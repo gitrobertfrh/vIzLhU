@@ -168,3 +168,4 @@
 - [数据解析开源案例仓库 可复用源码与数据模块集成接入指南](https://github.com/gitrobertfrh/vIzLhU/commit/18e506be485cdad70a22a260189c669629f4a57d)
 - [CDN架构演进，边缘缓存、AI加速新场景](https://github.com/gitrobertfrh/vIzLhU/commit/ad89517b4454f7a5a5a47bd06bf38159f83d8a89)
 - [公租房住满之后，可以购买这套公租房吗](https://github.com/gitrobertfrh/vIzLhU/commit/4ac2bb4e166da50045cc879507b3fd0bf4bd1374)
+- [向量元数据全生命周期管理，标签权限清理](https://github.com/gitrobertfrh/vIzLhU/commit/a4165112d36fbbfcd7bc850ed8b2cd6454f053f1)
