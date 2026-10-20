@@ -140,3 +140,4 @@
 - [房租涨跌两极分化，刚需两头都受挤压](https://github.com/gitrobertfrh/vIzLhU/commit/1cb75ade9babd7957ff43e238f9361ce2ec1edff)
 - [消费券发放，如何真正惠及普通消费者而非企业商家](https://github.com/gitrobertfrh/vIzLhU/commit/42c2dfe71bec590e898ea06775a72d14b6763c18)
 - [养老储蓄产品上市低利率环境养老储蓄值不值得买](https://github.com/gitrobertfrh/vIzLhU/commit/9a4497500d4c47974c28b587f113ebec820436cb)
+- [海外高薪务工骗局识别实用技巧](https://github.com/gitrobertfrh/vIzLhU/commit/c0200bc24ed91870617912ec05c53c484a9e83cd)
