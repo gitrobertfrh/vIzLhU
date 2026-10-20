@@ -113,3 +113,4 @@
 - [配置无需重启热更新源码 完整源码监听配置自动加载](https://github.com/gitrobertfrh/vIzLhU/commit/f44fed02574f4584a98482ff26a991ac57028061)
 - [职业技能培训数量庞大，培训内容和市场需求脱节](https://github.com/gitrobertfrh/vIzLhU/commit/50c8161ff697fcd3fc9aa8a52d07b837caead471)
 - [智慧电网AI调度，分布式新能源负荷预测难点](https://github.com/gitrobertfrh/vIzLhU/commit/2bc5a622929d28f7a6eb57ec7df8d1aad41e9701)
+- [云原生AI工作负载内存泄露，长驻推理服务排查](https://github.com/gitrobertfrh/vIzLhU/commit/16896622ed416f0f799e361540194f351db68f83)
