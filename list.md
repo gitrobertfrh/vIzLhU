@@ -77,3 +77,4 @@
 - [短途微度假常态化，城市周边文旅产业变迁](https://github.com/gitrobertfrh/vIzLhU/commit/14aa133331544ebd21f6c685316d8a4e90ff9f5e)
 - [开源供应链攻击，依赖包投毒带来的安全风险](https://github.com/gitrobertfrh/vIzLhU/commit/bca97062715ec57df75421a6dae99574162a3103)
 - [简单哈希表实现开源工程 完整源码手写简易哈希存储逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/58132a5aafdf18077768b941890f84b8a3d9a9ed)
+- [git仓库信息导出脚本，导出贡献者标签分支统计信息](https://github.com/gitrobertfrh/vIzLhU/commit/b587085f73ff05599530d9d643d1d16e05b7d02f)
