@@ -106,3 +106,4 @@
 - [量化交易持续规范，散户赚钱难度并未降低](https://github.com/gitrobertfrh/vIzLhU/commit/b70ff0e6a979d56c8c2373a07049d6964f43f8c8)
 - [海外开源中文PR，维护者看不懂直接关闭](https://github.com/gitrobertfrh/vIzLhU/commit/8457cd89a657628bffbf3b1211a3d2f6da2bdc15)
 - [源码文件行尾cr换行符批量修复，批量把CR换行修正为LF换行格式](https://github.com/gitrobertfrh/vIzLhU/commit/85dcd8acab642d727d1fb9d14e5cb20e2f6379df)
+- [进程调用脚本开源仓库 完整源码实现外部程序调用执行](https://github.com/gitrobertfrh/vIzLhU/commit/37361feeadc0630542647e70b14531ca9b419b2c)
