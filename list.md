@@ -26,3 +26,4 @@
 - [git重写提交邮箱用户名，批量修改git历史提交者信息](https://github.com/gitrobertfrh/vIzLhU/commit/23b86728eafbda848255a7584f0511d30a613b50)
 - [CI流水线输出日志过大，日志被截断关键信息丢失](https://github.com/gitrobertfrh/vIzLhU/commit/07c8378dfde754dd92235d2dac6a39ed75754efc)
 - [开发者解决方案开源分享 完整源码以及实操案例](https://github.com/gitrobertfrh/vIzLhU/commit/c0c70ed5aaa04af1dd6e8a8c690f90988bbafb7a)
+- [本地生活商家数字化SaaS工具普及中小门店降本增效](https://github.com/gitrobertfrh/vIzLhU/commit/9b340cfbb5ffebe709799dd6635fb5feb6711279)
