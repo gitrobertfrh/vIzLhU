@@ -71,3 +71,4 @@
 - [专精特新企业发展，面临市场订单不足的现实困境](https://github.com/gitrobertfrh/vIzLhU/commit/25d9155d045bf9ace79b8e367a2f932bdcd50b1f)
 - [开源软件线上故障，法律上维护者不承担责任](https://github.com/gitrobertfrh/vIzLhU/commit/e657ffccdc9da3502c347529d39e5a38112104d1)
 - [海洋大模型，海洋环境感知预测算力消耗](https://github.com/gitrobertfrh/vIzLhU/commit/ba7ff50b0852d13d2bcb331d4cda2af02a39241c)
+- [文旅数据爆表，普通人并没有赚到钱](https://github.com/gitrobertfrh/vIzLhU/commit/d990ca1b9972da8aa4f6eae30ae2ce9662ce924f)
