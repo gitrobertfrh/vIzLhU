@@ -99,3 +99,4 @@
 - [接口签名验签 Demo 完整源码请求参数签名校验防篡改](https://github.com/gitrobertfrh/vIzLhU/commit/bf720fac2b61e759a9926669faae4f0ff1c96293)
 - [开源项目文档控制代码块占比增加中文解说](https://github.com/gitrobertfrh/vIzLhU/commit/9013295e2c36afbdd9d3a3f4f5d480a06904bb46)
 - [各项经济数据向好，普通人感受却是另一番模样](https://github.com/gitrobertfrh/vIzLhU/commit/4a195ad1b37de4de8ab330919c17a5106bc0ebf5)
+- [海外开源中文本地化，中文PR长期不合并](https://github.com/gitrobertfrh/vIzLhU/commit/c0b6357513bb96f5919eb5f819b94e3363fabaf0)
