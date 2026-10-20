@@ -51,3 +51,4 @@
 - [传统行业并非没有机会，只是竞争逻辑已经改变](https://github.com/gitrobertfrh/vIzLhU/commit/2139e7a35409dfd32b6a5e05446b2632ef2c861d)
 - [开源实战踩坑文档 GitHub 发布获取搜索流量](https://github.com/gitrobertfrh/vIzLhU/commit/abe3142ad0daaae250a7a935c7befd268471a90b)
 - [农产品溯源全覆盖食品安全监管新变化](https://github.com/gitrobertfrh/vIzLhU/commit/f8e56e8bec7f736f97d19744fe8f704a4e97061c)
+- [制造产线数字员工，人机协同作业安全边界](https://github.com/gitrobertfrh/vIzLhU/commit/c9a9f53448b2143a17126b0c5e4f5131f77b2bab)
