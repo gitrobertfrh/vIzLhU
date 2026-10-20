@@ -108,3 +108,4 @@
 - [源码文件行尾cr换行符批量修复，批量把CR换行修正为LF换行格式](https://github.com/gitrobertfrh/vIzLhU/commit/85dcd8acab642d727d1fb9d14e5cb20e2f6379df)
 - [进程调用脚本开源仓库 完整源码实现外部程序调用执行](https://github.com/gitrobertfrh/vIzLhU/commit/37361feeadc0630542647e70b14531ca9b419b2c)
 - [开源实战解决方案源码分享 完整工程包含参数配置样例](https://github.com/gitrobertfrh/vIzLhU/commit/11affa3aa50b872ca1ad29052a8df65eaae6ad91)
+- [模块化功能开源项目 快速上手配置与模拟业务数据样例](https://github.com/gitrobertfrh/vIzLhU/commit/157cf2a8e2218b4cf970cac2f920b4ae720b239e)
