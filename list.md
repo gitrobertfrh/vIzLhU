@@ -160,3 +160,4 @@
 - [山林物资台账管理，盘点库存预警出入库统计报表](https://github.com/gitrobertfrh/vIzLhU/commit/0faefd2b04aa07dad9745533ef5a6841f6963b4b)
 - [Rust开源项目爆发，Rust生态依赖编译速度痛点](https://github.com/gitrobertfrh/vIzLhU/commit/1414fcc7660d0477442ff7922b5d9f08a8f462cf)
 - [港股迎来修复反弹，切勿错把反弹当成大牛市](https://github.com/gitrobertfrh/vIzLhU/commit/0f971b436de7b52711b939153307d7c50615a30f)
+- [Fork PR无法访问Secret密钥，自动化测试受限](https://github.com/gitrobertfrh/vIzLhU/commit/d12bde55c6e61f49e5ef042a5416483aad54f17a)
