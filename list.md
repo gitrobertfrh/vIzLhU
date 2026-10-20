@@ -115,3 +115,4 @@
 - [智慧电网AI调度，分布式新能源负荷预测难点](https://github.com/gitrobertfrh/vIzLhU/commit/2bc5a622929d28f7a6eb57ec7df8d1aad41e9701)
 - [云原生AI工作负载内存泄露，长驻推理服务排查](https://github.com/gitrobertfrh/vIzLhU/commit/16896622ed416f0f799e361540194f351db68f83)
 - [新能源综合能源站普及，加油站业态转型](https://github.com/gitrobertfrh/vIzLhU/commit/d606e3d9ac9bc5f17bb81c857a8bc4aac3c12d58)
+- [银行办理业务被拒，哪些情况银行有权拒绝开户](https://github.com/gitrobertfrh/vIzLhU/commit/4016373a928238838d1dafe4297962c68d93d086)
