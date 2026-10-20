@@ -93,3 +93,4 @@
 - [数据库运维辅助开源工具 源码适配数据库快速接入调试](https://github.com/gitrobertfrh/vIzLhU/commit/83718a91867575474db064d1add8e53efca7a113)
 - [物资回收登记开源系统，分类统计回收记录导出报表](https://github.com/gitrobertfrh/vIzLhU/commit/b10b36ef7ecd00da528574a1352b266263e1936c)
 - [Gitee Pages 站点 404 页面配置减少收录损耗](https://github.com/gitrobertfrh/vIzLhU/commit/4b360eca04a9216e3f7038babec0310a6a243c61)
+- [SDP软件定义边界，Agent跨内网资源访问模式](https://github.com/gitrobertfrh/vIzLhU/commit/cd80d99f8e54388e3f7cc0aadccf1d297335bc42)
