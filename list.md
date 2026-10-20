@@ -44,3 +44,4 @@
 - [制造业的服务外包，如何把控产业链安全风险](https://github.com/gitrobertfrh/vIzLhU/commit/4c5641026423a9c9930cec5f5cb115a3226075e9)
 - [LPR报价变动预期房贷企业贷款利率后续走向分析](https://github.com/gitrobertfrh/vIzLhU/commit/e7d5ea7a11a494a3a8ebaa2120ee2785b6a963cd)
 - [ssh配置文件管理工具，增删ssh config主机配置一键切换](https://github.com/gitrobertfrh/vIzLhU/commit/2d5c2421be813aefe5f8d970adf740bfdaa2e1c5)
+- [OpenAPI接口文档自动化，文档与代码一致性保障](https://github.com/gitrobertfrh/vIzLhU/commit/2f28998596f8882fa0f3eaa8cff53f7bda24c7cd)
