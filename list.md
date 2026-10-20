@@ -38,3 +38,4 @@
 - [机密虚拟机CVM部署推理，加密计算性能损耗](https://github.com/gitrobertfrh/vIzLhU/commit/4a849efb088dfcee152987936f43bdd8744f9d70)
 - [git提交信息规范检查，自定义规则拦截不规范commit提交](https://github.com/gitrobertfrh/vIzLhU/commit/576e4bcde928c7df098cac698e4f519dd94d2629)
 - [粮价表面风平浪静，暗藏连锁传导潜在危机](https://github.com/gitrobertfrh/vIzLhU/commit/ee7e84c2c7bca4704a4b333191adc1f18e4d9217)
+- [牛市呼声越来越高，散户账户却纹丝不动](https://github.com/gitrobertfrh/vIzLhU/commit/b367dd05bf86c9b08c2d161df371d9a3cd52e4a8)
