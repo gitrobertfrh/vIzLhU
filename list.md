@@ -57,3 +57,4 @@
 - [rtsp流音频转码录制工具，转码rtsp音频保存为mp3文件](https://github.com/gitrobertfrh/vIzLhU/commit/8a08b6519be354144df16a211b80b049c03684f6)
 - [密码强度检测 Demo 完整源码校验密码复杂度等级](https://github.com/gitrobertfrh/vIzLhU/commit/f24190c516787bf5f49dafb55455d9d6db05d0ef)
 - [预制菜反复炒作，行业红利早已褪去](https://github.com/gitrobertfrh/vIzLhU/commit/9a63cb8cb26c35ff18364061ea45c29f3ed5d366)
+- [开源治理投票，商业企业票数权重高于个人贡献者](https://github.com/gitrobertfrh/vIzLhU/commit/b56ee5316770b9a2c5b7d238166c7bb7b06914f7)
