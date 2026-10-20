@@ -188,3 +188,4 @@
 - [北交所行情分化专精特新企业成长机会该如何挖掘](https://github.com/gitrobertfrh/vIzLhU/commit/842b453cc7eacf217281306fbcc07274dd8dbc40)
 - [sqlite数据库触发器导出，批量导出sqlite触发器定义](https://github.com/gitrobertfrh/vIzLhU/commit/887b8ae39875c63bbbfc7e4077a9992ade5448d4)
 - [养老资金大举入市，不存在稳赚的行情](https://github.com/gitrobertfrh/vIzLhU/commit/6196d5fa522a4970c54fa58e5d1d0bc1e274104a)
+- [视频批量裁剪画面区域，自定义坐标裁剪视频画面局部区域](https://github.com/gitrobertfrh/vIzLhU/commit/f94d253586f6c66626754083ee22f9f27ec07530)
