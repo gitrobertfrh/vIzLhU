@@ -62,3 +62,4 @@
 - [超大文本按字段过滤流式处理，不加载全量过滤大文本指定字段](https://github.com/gitrobertfrh/vIzLhU/commit/73b725fc34bbb0e391f0af0da695f204bc6d2b18)
 - [新型消费业态层出不穷，监管规则需要同步跟进完善](https://github.com/gitrobertfrh/vIzLhU/commit/fec0bbf2a655a48e4ed3b436f1ba6b17f1045c8a)
 - [多许可证混杂项目，传递依赖协议冲突排查难](https://github.com/gitrobertfrh/vIzLhU/commit/f2898c001fc9790d58cc6beb07e5fb0b8566c86b)
+- [文旅消费火热，但是多数中小文旅商户利润微薄](https://github.com/gitrobertfrh/vIzLhU/commit/67cb5caa61018fb2fc4b6b3a7c6b5ede47e9fef3)
