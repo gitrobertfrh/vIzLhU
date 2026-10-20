@@ -124,3 +124,4 @@
 - [消息队列mq消息回放工具，保存mq消息文件本地回放模拟](https://github.com/gitrobertfrh/vIzLhU/commit/0b8f50c7fb5cc004063a058eece55abda359bb67)
 - [垂直行业SLM评测集自主构建，行业效果量化评估](https://github.com/gitrobertfrh/vIzLhU/commit/4c2bed1feed5345ded189b571274af903b65ac69)
 - [宏观数据持续修复，小微企业日子依旧艰难](https://github.com/gitrobertfrh/vIzLhU/commit/de33c3ec6ad4d31bac3da7e9c5d3867ab95d0ab1)
+- [正则表达式工具开源项目 完整源码附带表达式调试样例](https://github.com/gitrobertfrh/vIzLhU/commit/169256b488a2628f481c9fc0693cb10952bb78df)
