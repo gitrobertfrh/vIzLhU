@@ -56,3 +56,4 @@
 - [险企参与港股IPO基石投资长线资金布局港股市场动向](https://github.com/gitrobertfrh/vIzLhU/commit/fdef5b126c76246d4ad539a6e2d00b1d708ad2f7)
 - [rtsp流音频转码录制工具，转码rtsp音频保存为mp3文件](https://github.com/gitrobertfrh/vIzLhU/commit/8a08b6519be354144df16a211b80b049c03684f6)
 - [密码强度检测 Demo 完整源码校验密码复杂度等级](https://github.com/gitrobertfrh/vIzLhU/commit/f24190c516787bf5f49dafb55455d9d6db05d0ef)
+- [预制菜反复炒作，行业红利早已褪去](https://github.com/gitrobertfrh/vIzLhU/commit/9a63cb8cb26c35ff18364061ea45c29f3ed5d366)
