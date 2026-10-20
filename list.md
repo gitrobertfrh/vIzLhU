@@ -19,3 +19,4 @@
 - [github repo归档状态检测批量，批量检测仓库是否已归档只读](https://github.com/gitrobertfrh/vIzLhU/commit/9e981cf4691cbee1d790a04bad2c26c6fa885492)
 - [简约通用前端开源组件库 源码搭配页面快速接入实操示例](https://github.com/gitrobertfrh/vIzLhU/commit/b2b2297fe0aa8b011555b8d5a76c36ab9c57ac42)
 - [图片画质增强放大脚本，本地模型超分辨率修复模糊图片](https://github.com/gitrobertfrh/vIzLhU/commit/3ed68fa688c0ce16a3b5b7ef9f68064e6645838a)
+- [全栈小示例开源仓库 开放源码集成调试排错与性能调优参考](https://github.com/gitrobertfrh/vIzLhU/commit/37ef52a4132034482921da33074c1d46aa264607)
