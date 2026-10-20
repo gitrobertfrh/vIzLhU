@@ -190,3 +190,4 @@
 - [养老资金大举入市，不存在稳赚的行情](https://github.com/gitrobertfrh/vIzLhU/commit/6196d5fa522a4970c54fa58e5d1d0bc1e274104a)
 - [视频批量裁剪画面区域，自定义坐标裁剪视频画面局部区域](https://github.com/gitrobertfrh/vIzLhU/commit/f94d253586f6c66626754083ee22f9f27ec07530)
 - [Agent‑Skill组件生态碎片化与标准化阻碍](https://github.com/gitrobertfrh/vIzLhU/commit/2ff2e37ca7358417398096b7aad22a8864f612b3)
+- [文件批量操作开源工具 完整源码适配多操作系统部署](https://github.com/gitrobertfrh/vIzLhU/commit/4cd8776404ed2267869ff01d68248fb8f415ceda)
