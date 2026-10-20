@@ -47,3 +47,4 @@
 - [OpenAPI接口文档自动化，文档与代码一致性保障](https://github.com/gitrobertfrh/vIzLhU/commit/2f28998596f8882fa0f3eaa8cff53f7bda24c7cd)
 - [开箱可用实战开源源码仓库 源码开放包含改造开发参考](https://github.com/gitrobertfrh/vIzLhU/commit/22f38d8c86040a334d9316f08cb6ce8965c458cf)
 - [气候韧性农业发展，应对极端天气农业转型](https://github.com/gitrobertfrh/vIzLhU/commit/ed2db214d8f99ae809f320eb44cc9e394bca46ff)
+- [面向后端研发开源工具方案 源码资源附带详细注释文档](https://github.com/gitrobertfrh/vIzLhU/commit/3fea8a706242601b2cd100cac5070fd0ed1ab620)
