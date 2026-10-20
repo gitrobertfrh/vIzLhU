@@ -36,3 +36,4 @@
 - [无人机黑飞扰民该如何治理](https://github.com/gitrobertfrh/vIzLhU/commit/56b6910a4cc48686590b456bd964bd4a4566e020)
 - [AI数据集版权自动审计，训练素材来源溯源](https://github.com/gitrobertfrh/vIzLhU/commit/9f72ccb63d9a93e726be53e00c349dab3c50041f)
 - [机密虚拟机CVM部署推理，加密计算性能损耗](https://github.com/gitrobertfrh/vIzLhU/commit/4a849efb088dfcee152987936f43bdd8744f9d70)
+- [git提交信息规范检查，自定义规则拦截不规范commit提交](https://github.com/gitrobertfrh/vIzLhU/commit/576e4bcde928c7df098cac698e4f519dd94d2629)
