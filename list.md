@@ -185,3 +185,4 @@
 - [制造业企业的研发投入，如何平衡短期成本与长期收益](https://github.com/gitrobertfrh/vIzLhU/commit/913f5b8bb513757fcc0ef739a91c5ef21771e1fd)
 - [Passkey大规模推广，账号体系平滑迁移方案](https://github.com/gitrobertfrh/vIzLhU/commit/06cac45c4338152004d8545ad6f74ffac4f3f878)
 - [仓库被恶意举报封禁，开源项目误封申诉艰难](https://github.com/gitrobertfrh/vIzLhU/commit/713ac7cbe7ed6b75355fc83dd8cb91c3d0ec91c9)
+- [北交所行情分化专精特新企业成长机会该如何挖掘](https://github.com/gitrobertfrh/vIzLhU/commit/842b453cc7eacf217281306fbcc07274dd8dbc40)
