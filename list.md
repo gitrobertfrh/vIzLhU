@@ -199,3 +199,4 @@
 - [社会资本参与公共项目，平衡收益与公共利益](https://github.com/gitrobertfrh/vIzLhU/commit/810681f5d604d9984daebbc8eed46380ca986fbd)
 - [县域金融服务下沉，小微农户贷款难问题依旧突出](https://github.com/gitrobertfrh/vIzLhU/commit/d33b20a9eb71ab2d75849c2a15d39b18639dd0f7)
 - [户外露营营地规范化，土地消防合规难题](https://github.com/gitrobertfrh/vIzLhU/commit/e8014cc7207e97269bdb0dd84d6c5b85a39f23e9)
+- [github release自动生成changelog，基于tag对比自动生成变更日志](https://github.com/gitrobertfrh/vIzLhU/commit/619fb78e37312984f52594f856f58c655b01d77b)
