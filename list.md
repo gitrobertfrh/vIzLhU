@@ -170,3 +170,4 @@
 - [公租房住满之后，可以购买这套公租房吗](https://github.com/gitrobertfrh/vIzLhU/commit/4ac2bb4e166da50045cc879507b3fd0bf4bd1374)
 - [向量元数据全生命周期管理，标签权限清理](https://github.com/gitrobertfrh/vIzLhU/commit/a4165112d36fbbfcd7bc850ed8b2cd6454f053f1)
 - [就业市场的变化，是观察经济冷暖最直观的窗口](https://github.com/gitrobertfrh/vIzLhU/commit/00a4b17b48fe863dcbfae7edb44ea7093678545c)
+- [外贸企业开拓新兴市场，面临当地市场规则的挑战](https://github.com/gitrobertfrh/vIzLhU/commit/04b99451aa6cef50c55e10fb78b93058a701ba64)
