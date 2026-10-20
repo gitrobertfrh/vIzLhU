@@ -101,3 +101,4 @@
 - [各项经济数据向好，普通人感受却是另一番模样](https://github.com/gitrobertfrh/vIzLhU/commit/4a195ad1b37de4de8ab330919c17a5106bc0ebf5)
 - [海外开源中文本地化，中文PR长期不合并](https://github.com/gitrobertfrh/vIzLhU/commit/c0b6357513bb96f5919eb5f819b94e3363fabaf0)
 - [责任链模式开源工程 完整源码处理器链式处理逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/744c2d323c92da96a5072836492014848728c612)
+- [多模态输入预处理，图片压缩降噪避免诱导注入](https://github.com/gitrobertfrh/vIzLhU/commit/48f7e87427cbbf2288cd4d5645c438ddb4ef7b56)
