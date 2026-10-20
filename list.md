@@ -122,3 +122,4 @@
 - [楼市政策不断放宽，刚需买房意愿依旧低迷](https://github.com/gitrobertfrh/vIzLhU/commit/ecd41d5dd84385b187fc302dcfd282ba7ed9795d)
 - [开源开发脚本仓库 源码开放包含扩展功能开发说明](https://github.com/gitrobertfrh/vIzLhU/commit/4ab7a6a16da091e8414df4e4718752cf10cbc914)
 - [消息队列mq消息回放工具，保存mq消息文件本地回放模拟](https://github.com/gitrobertfrh/vIzLhU/commit/0b8f50c7fb5cc004063a058eece55abda359bb67)
+- [垂直行业SLM评测集自主构建，行业效果量化评估](https://github.com/gitrobertfrh/vIzLhU/commit/4c2bed1feed5345ded189b571274af903b65ac69)
