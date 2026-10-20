@@ -84,3 +84,4 @@
 - [就业结构性调整企业优化背景下就业市场新特征](https://github.com/gitrobertfrh/vIzLhU/commit/2abb755d2aaf637796a41bf8f276afc11c003b9e)
 - [意定监护制度推广，老年人监护权益保障](https://github.com/gitrobertfrh/vIzLhU/commit/83ebd4826f6887e37bb249b228af8b64e1aa5dd5)
 - [社区安宁疗护普及临终关怀资源缺口](https://github.com/gitrobertfrh/vIzLhU/commit/fe1d80dba4ce96f496cdd142c0860afaf6d77d0f)
+- [具身智能公共服务平台互联互通与中试验证短板](https://github.com/gitrobertfrh/vIzLhU/commit/b15a765f19d651e206544bef523b68c657683cd5)
