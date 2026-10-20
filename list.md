@@ -43,3 +43,4 @@
 - [AI‑Native开发范式对传统研发流程的颠覆与落地痛点](https://github.com/gitrobertfrh/vIzLhU/commit/1dd5e519004ed3ce7592a0937602f5f938fa7a92)
 - [制造业的服务外包，如何把控产业链安全风险](https://github.com/gitrobertfrh/vIzLhU/commit/4c5641026423a9c9930cec5f5cb115a3226075e9)
 - [LPR报价变动预期房贷企业贷款利率后续走向分析](https://github.com/gitrobertfrh/vIzLhU/commit/e7d5ea7a11a494a3a8ebaa2120ee2785b6a963cd)
+- [ssh配置文件管理工具，增删ssh config主机配置一键切换](https://github.com/gitrobertfrh/vIzLhU/commit/2d5c2421be813aefe5f8d970adf740bfdaa2e1c5)
