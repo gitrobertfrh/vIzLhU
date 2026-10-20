@@ -105,3 +105,4 @@
 - [深远海海上风电启动技术迭代带来成本下降空间](https://github.com/gitrobertfrh/vIzLhU/commit/9d775dd6e5d03615119f27d6a5d6a01cb3551246)
 - [量化交易持续规范，散户赚钱难度并未降低](https://github.com/gitrobertfrh/vIzLhU/commit/b70ff0e6a979d56c8c2373a07049d6964f43f8c8)
 - [海外开源中文PR，维护者看不懂直接关闭](https://github.com/gitrobertfrh/vIzLhU/commit/8457cd89a657628bffbf3b1211a3d2f6da2bdc15)
+- [源码文件行尾cr换行符批量修复，批量把CR换行修正为LF换行格式](https://github.com/gitrobertfrh/vIzLhU/commit/85dcd8acab642d727d1fb9d14e5cb20e2f6379df)
