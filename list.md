@@ -154,3 +154,4 @@
 - [数据要素政策加码，赚钱依旧遥不可及](https://github.com/gitrobertfrh/vIzLhU/commit/90422f49467dfdec93af59c8d8474dd4a32b1922)
 - [Agent人机审批流程，高风险操作强制人工复核](https://github.com/gitrobertfrh/vIzLhU/commit/33add68a56ed6c6195898e06f0b2b1bfa909a490)
 - [直播电商退货率居高不下，抬升中小商家经营成本](https://github.com/gitrobertfrh/vIzLhU/commit/4eadd49c814e74eac41f5183678d2a475e6ecd95)
+- [shell脚本参数校验模板，对输入参数做类型合法性校验脚本](https://github.com/gitrobertfrh/vIzLhU/commit/840cc77b87551ebef0fc88d1766e2cfcbc98b696)
