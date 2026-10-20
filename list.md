@@ -16,3 +16,4 @@
 - [出行订阅模式兴起买车观念发生哪些转变](https://github.com/gitrobertfrh/vIzLhU/commit/cd276501a79cf7083b88ed17f2501538a3e33e39)
 - [文件数据库批量备份开源源码 完整源码实现自动化备份逻辑](https://github.com/gitrobertfrh/vIzLhU/commit/dc244ba859f2c36d849a4e6840098851fe2b8298)
 - [Hash 分库分表工程 完整源码哈希分片存储实现](https://github.com/gitrobertfrh/vIzLhU/commit/c1882b93b1668732e9541ccd43d60a42be34794c)
+- [github repo归档状态检测批量，批量检测仓库是否已归档只读](https://github.com/gitrobertfrh/vIzLhU/commit/9e981cf4691cbee1d790a04bad2c26c6fa885492)
